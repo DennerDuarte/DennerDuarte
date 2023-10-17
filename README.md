@@ -14,7 +14,7 @@
   </div>
  
  <div align="center" >
- <h2 color="#FF5555">Linguagens que eu tenho conhecimento:<h2>
+ <h2 color="#FF5555">Linguagens que eu tenho conhecimento:</h2>
  
   <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,py,figma,java,react,git,sass,vercel,vite,mysql&perline=7" alt="Linguagens já vistas!"/>
  </div>
