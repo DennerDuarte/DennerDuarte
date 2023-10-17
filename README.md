@@ -1,5 +1,6 @@
-### Olá, Bem vindo ao meu perfil do GitHub!
-
+<h1 align="center">
+  Olá, Bem vindo ao meu perfil do GitHub!
+</h1>div>
 <!--
 **DennerDuarte/DennerDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
