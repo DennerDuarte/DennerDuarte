@@ -25,8 +25,8 @@
 
 ### Linguagens que eu já utilzei:
 
-<div>
- <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,py,figma,java,react,git,sass,vercel,vite,mysql&perline=4" alt="Linguagens já vistas!"/>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,py,figma,java,react,git,sass,vercel,vite,mysql&perline=3" alt="Linguagens já vistas!"/>
 </div>
 
 
