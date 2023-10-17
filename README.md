@@ -19,7 +19,7 @@
 
  <h2>Plataformas que já programei: </h2>
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse" />
  </div>
  
  
