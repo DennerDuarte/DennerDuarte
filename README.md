@@ -1,6 +1,12 @@
-<h1>
+<h1 align="center>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=75&size=23&duration=3000&pause=1000&color=FF5555&background=282A3600&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Denner+Duarte;E+atualmente+sou+estudante+de+ADS" alt="Typing SVG" />
 </h1>
+
+### Linguagens que eu já utilzei:
+
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,py,figma,java,react,git,sass,vercel,vite,mysql&perline=7" alt="Linguagens já vistas!"/>
+</div>
 
 <div align="center">
  
@@ -23,11 +29,7 @@
         <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerDuarte&layout=compact&theme=dracula&border_radius=10" alt="top langs" />
     </div>
 
-### Linguagens que eu já utilzei:
 
-<div align="center">
- <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,py,figma,java,react,git,sass,vercel,vite,mysql&perline=7" alt="Linguagens já vistas!"/>
-</div>
 
 
 
