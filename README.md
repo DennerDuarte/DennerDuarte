@@ -20,13 +20,13 @@
       <br/>
         <img width=390 src="https://streak-stats.demolab.com/?user=DennerDuarte&theme=dracula&border_radius=10" alt="streak stats"/>
         <br/>
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerDuarte&layout=compact&theme=dracula&border_radius=10" alt="top langs" />
+        <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerDuarte&layout=compact&theme=dracula&border_radius=10" alt="top langs" />
     </div>
 
 ### Linguagens que eu já utilzei:
 
 <div>
- https://skillicons.dev/icons?i=js,html,css,wasm
+ <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Linguagens já vistas!"/>
 </div>
 
 
