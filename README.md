@@ -1,5 +1,5 @@
 <div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=35&pause=1000&color=FF5555&background=282A3600&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Denner+Duarte;E+atualmente+sou+estudante+de+ADS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=20&pause=1000&color=FF5555&background=282A3600&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Denner+Duarte;E+atualmente+sou+estudante+de+ADS" alt="Typing SVG" />
 </div>
 
 <h2 align="center">Meus Status:</h2>
