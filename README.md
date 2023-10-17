@@ -16,6 +16,7 @@
  <h2 color="#FF5555">Linguagens que eu tenho conhecimento:</h2>
  
   <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,py,figma,java,react,git,sass,vercel,vite,mysql&perline=7" alt="Linguagens já vistas!"/>
+  <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
   <iconify-icon icon="devicon:sqldeveloper" width="20"></iconify-icon>
 
  <h2 color="#FF5555">Plataformas que já programei: <img src=""/></h2>
