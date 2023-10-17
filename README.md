@@ -1,4 +1,4 @@
-<h1 align="center>
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=75&size=23&duration=3000&pause=1000&color=FF5555&background=282A3600&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Denner+Duarte;E+atualmente+sou+estudante+de+ADS" alt="Typing SVG" />
 </h1>
 
