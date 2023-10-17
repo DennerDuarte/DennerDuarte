@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=75&size=23&duration=3000&pause=1000&color=FF5555&background=282A3600&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Denner+Duarte;E+atualmente+sou+estudante+de+ADS" alt="Typing SVG" />
  </h1>
  
- <div align="center" color="#FF5555">
+ <div align="center" >
   
     📚 Faculdade FIAP
   
@@ -13,8 +13,8 @@
  
   </div>
  
- <div align="center" color="#FF5555">
- <h2>Linguagens que eu tenho conhecimento:<h2>
+ <div align="center" >
+ <h2 color="#FF5555">Linguagens que eu tenho conhecimento:<h2>
  
   <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,py,figma,java,react,git,sass,vercel,vite,mysql&perline=7" alt="Linguagens já vistas!"/>
  </div>
