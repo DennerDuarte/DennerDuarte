@@ -2,7 +2,7 @@
   Olá, Bem vindo ao meu perfil do GitHub!
 </h1>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Meus Status Pessoais!</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=DennerDuarte&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=dracula" alt="readme stats"/>
@@ -13,7 +13,7 @@
 
  
  <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Essas São as minha contribuições!</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
