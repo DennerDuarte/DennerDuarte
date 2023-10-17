@@ -8,7 +8,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=DennerDuarte&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=dracula" alt="readme stats"/>
   <img width=390 src="https://streak-stats.demolab.com/?user=DennerDuarte&theme=dracula&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerDuarte&layout=compact&theme=dracula&border_radius=10" alt="top langs" />
 </div>
 
  
