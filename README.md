@@ -26,7 +26,7 @@
 ### Linguagens que eu já utilzei:
 
 <div>
- <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,python" alt="Linguagens já vistas!"/>
+ <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,python,figma,java,react,sql" alt="Linguagens já vistas!"/>
 </div>
 
 
