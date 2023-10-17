@@ -1,4 +1,3 @@
-<div color-background="#282A36">
  <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=75&size=23&duration=3000&pause=1000&color=FF5555&background=282A3600&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Denner+Duarte;E+atualmente+sou+estudante+de+ADS" alt="Typing SVG" />
  </h1>
@@ -21,8 +20,8 @@
  
  
  
- <div>
-    <h2 align="center" color="#FF5555">Meus Status:</h2>
+ <div align="center" color="#FF5555">
+    <h2 >Meus Status:</h2>
       <br/>
         <div align=center>
             <img width=390 src="https://github-readme-stats.vercel.app/api?username=DennerDuarte&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=dracula" alt="readme stats"/>
@@ -33,7 +32,7 @@
      </div>
     </div>
 
-</div>
+
 
 
 
