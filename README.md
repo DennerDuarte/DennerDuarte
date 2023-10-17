@@ -1,8 +1,8 @@
-<h1 align="center">
-  Olá, Bem vindo ao meu perfil do GitHub!
-</h1>
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=FF5555&background=282A3600&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub!;Meu+nome+%C3%A9+Denner+Duarte;E+atualmente+sou+estudante+de+ADS" alt="Typing SVG" /></a>
+</div>
 
-<h2 align="center">Meus Status Pessoais!</h2>
+<h2 align="center">Meus Status:</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=DennerDuarte&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=dracula" alt="readme stats"/>
@@ -13,7 +13,7 @@
 
  
  <div align="center">
-  <h2>Essas São as minha contribuições!</h2>
+  <h2>Minhas contribuições: </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
