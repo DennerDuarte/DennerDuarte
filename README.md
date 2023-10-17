@@ -5,7 +5,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DennerDuarte&theme=dracula" alt="readme stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DennerDuarte&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&theme=dracula=10" alt="readme stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=DennerDuarte&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&theme=dracula" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="" alt="top langs" />
